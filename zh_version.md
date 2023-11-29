@@ -12,7 +12,7 @@
 
 
 
-[[Englinsh Version](https://github.com/kidult00/genai-2023-map/)]
+[[Englinsh Version](https://github.com/kidult00/genai-2023-map)]
 
 ![GenAI-2023Map-zh](images/GenAI-2023map-zh.jpg)
 
