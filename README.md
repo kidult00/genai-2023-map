@@ -3,7 +3,7 @@ An image summarizes the timeline of the 2023 generative AI milestones.
 
 On ChatGPT's first anniversary, what is the landscape of generative AI?
 
-[[中文版](https://github.com/kidult00/GenAI2023Map/blob/main/zh_version.md)]
+[[中文版](https://github.com/kidult00/genai-2023-map/blob/main/zh_version.md)]
 
 ![GenAI-2023Map-en](images/GenAI-2023map-en.jpg)
 
